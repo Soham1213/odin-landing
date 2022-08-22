@@ -93,7 +93,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 128px;
+    margin-bottom: 116px;
 }
 
 #info .infocard {
@@ -113,4 +113,27 @@
     border-radius: 16px;
     width: 160px;
     height: 160px;
+}
+
+/* Quote Section */
+#quote .quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 48px 320px 64px; 
+    color: #1F2937;
+}
+
+#quote .words {
+    padding-top: 48px;
+    font-size: 36px;
+    font-style: italic;
+}
+
+#quote .author {
+    padding-top: 12px;
+    align-self: flex-end;
+    font-weight: bolder;
+    font-size: 20px;
 }
