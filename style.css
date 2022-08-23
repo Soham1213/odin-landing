@@ -176,3 +176,14 @@
     color: #F9FAF8;
     
 }
+
+/* Footer Section */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 24px;
+    color: #F9FAF8;
+    font-size: 16px;
+}
