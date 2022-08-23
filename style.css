@@ -138,6 +138,7 @@
     font-size: 20px;
 }
 
+/* Action Section */ 
 #action .action-container {
     display: flex;
     justify-content: center;
