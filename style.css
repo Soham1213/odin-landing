@@ -137,3 +137,41 @@
     font-weight: bolder;
     font-size: 20px;
 }
+
+#action .action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 208px;
+}
+
+#action .box-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 48px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+#action .box-container button {
+    border: 2px solid #F9FAF8;
+    border-radius: 6px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 7px 25px;
+    font-size: 18px;
+}
+
+#action .left-container h3 {
+    font-size: 24px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+#action .left-container p{
+    font-size: 18px;
+    color: #F9FAF8;
+    
+}
